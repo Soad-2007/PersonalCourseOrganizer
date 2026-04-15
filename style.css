@@ -18,17 +18,6 @@
         text-align: center;
     }
     
-    .cards{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .card{
-        width: 90%;
-        margin: 10px auto;
-    }
-    
-
 }
 
 html , body{
@@ -91,9 +80,10 @@ nav ul li a{
     font-weight: bold;
     text-decoration: none;
     font-size: larger;
+    color: #03045e;
 }
 a:hover{
-        color: #1ba1d6;
+        color: #0077b6;
     }
 
 .cards{
